@@ -1,0 +1,14 @@
+**/node_modules/
+**/build/
+**/dist/
+
+**/Move.lock
+**/.move
+
+#editor settings
+.vscode/
+*.log
+
+#OS files
+.DS_Store
+Thumbs.db
